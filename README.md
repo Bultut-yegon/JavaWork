@@ -5,4 +5,4 @@
 <br>
 <h6>The output of EmployeePayRoll.java file</h6>
 <br>
-<img src="https://github.com/Bultut-yegon/JavaWork/blob/main/refined.png">
+<img src="https://github.com/Bultut-yegon/JavaWork/blob/main/updated.png">
